@@ -1,4 +1,4 @@
-![Railway Logo](http://i.imgur.com/gMMy3AT.png)
+![Railway Logo](https://my.mixtape.moe/osyhkb.png)
 ***
 A customizable window manager for Wayland
 ***
